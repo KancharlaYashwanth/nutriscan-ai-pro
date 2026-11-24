@@ -1,0 +1,16 @@
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.env
+instance/
+uploads/*
+!uploads/.gitkeep
+datasets/raw/*
+!datasets/raw/.gitkeep
+datasets/processed/*
+!datasets/processed/.gitkeep
+models/*
+!models/.gitkeep
+nutriscan.db
+.DS_Store

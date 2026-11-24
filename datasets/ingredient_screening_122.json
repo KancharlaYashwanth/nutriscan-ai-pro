@@ -1,0 +1,618 @@
+{
+  "title": "NutriScan AI Ingredient Screening Dictionary",
+  "version": "1.0",
+  "record_count": 122,
+  "important_note": "This is a screening vocabulary, not a toxic-substance list. Ingredient presence alone does not establish harm. Additive permissions and limits depend on jurisdiction, food category and concentration. Contaminants such as heavy metals and mycotoxins require laboratory testing and cannot be detected from a barcode ingredient list. Verify against current FSSAI/Codex rules and package labels.",
+  "records": [
+    {
+      "name": "Peanuts",
+      "category": "allergen",
+      "note": "Declared allergen; avoid for users with peanut allergy."
+    },
+    {
+      "name": "Milk",
+      "category": "allergen",
+      "note": "Declared allergen; check for milk allergy."
+    },
+    {
+      "name": "Soy",
+      "category": "allergen",
+      "note": "Declared allergen; check for soy allergy."
+    },
+    {
+      "name": "Wheat",
+      "category": "allergen",
+      "note": "Contains wheat; check gluten/wheat sensitivity."
+    },
+    {
+      "name": "Gluten",
+      "category": "allergen",
+      "note": "Gluten-containing ingredient; relevant to coeliac disease."
+    },
+    {
+      "name": "Tree nuts",
+      "category": "allergen",
+      "note": "Declared tree-nut allergen; check the specific nut."
+    },
+    {
+      "name": "Almonds",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Cashews",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Walnuts",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Hazelnuts",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Pistachios",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Pecan nuts",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Brazil nuts",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Macadamia nuts",
+      "category": "allergen",
+      "note": "Tree-nut allergen."
+    },
+    {
+      "name": "Sesame",
+      "category": "allergen",
+      "note": "Declared allergen; check sesame allergy."
+    },
+    {
+      "name": "Mustard",
+      "category": "allergen",
+      "note": "Declared allergen in some food labelling systems."
+    },
+    {
+      "name": "Egg",
+      "category": "allergen",
+      "note": "Declared allergen; check egg allergy."
+    },
+    {
+      "name": "Fish",
+      "category": "allergen",
+      "note": "Declared allergen; check fish allergy."
+    },
+    {
+      "name": "Crustaceans",
+      "category": "allergen",
+      "note": "Declared allergen; check shellfish allergy."
+    },
+    {
+      "name": "Molluscs",
+      "category": "allergen",
+      "note": "Declared allergen; check shellfish allergy."
+    },
+    {
+      "name": "Lupin",
+      "category": "allergen",
+      "note": "Declared allergen in some food labelling systems."
+    },
+    {
+      "name": "Sulphites",
+      "category": "allergen",
+      "note": "May trigger reactions in sulphite-sensitive people."
+    },
+    {
+      "name": "Tartrazine",
+      "category": "additive_review",
+      "note": "Food colour INS 102; verify permitted food category and individual sensitivity."
+    },
+    {
+      "name": "Quinoline Yellow",
+      "category": "additive_review",
+      "note": "Food colour INS 104; verify permitted food category and local rules."
+    },
+    {
+      "name": "Sunset Yellow FCF",
+      "category": "additive_review",
+      "note": "Food colour INS 110; verify permitted food category and local rules."
+    },
+    {
+      "name": "Carmoisine",
+      "category": "additive_review",
+      "note": "Food colour INS 122; verify permitted food category and local rules."
+    },
+    {
+      "name": "Ponceau 4R",
+      "category": "additive_review",
+      "note": "Food colour INS 124; verify permitted food category and local rules."
+    },
+    {
+      "name": "Allura Red AC",
+      "category": "additive_review",
+      "note": "Food colour INS 129; verify permitted food category and local rules."
+    },
+    {
+      "name": "Brilliant Blue FCF",
+      "category": "additive_review",
+      "note": "Food colour INS 133; verify permitted food category and local rules."
+    },
+    {
+      "name": "Indigo Carmine",
+      "category": "additive_review",
+      "note": "Food colour INS 132; verify permitted food category and local rules."
+    },
+    {
+      "name": "Erythrosine",
+      "category": "additive_review",
+      "note": "Food colour INS 127; verify permitted food category and local rules."
+    },
+    {
+      "name": "Amaranth",
+      "category": "additive_review",
+      "note": "Food colour INS 123; verify permitted food category and local rules."
+    },
+    {
+      "name": "Sodium benzoate",
+      "category": "additive_review",
+      "note": "Preservative INS 211; permitted uses and limits depend on food category."
+    },
+    {
+      "name": "Potassium benzoate",
+      "category": "additive_review",
+      "note": "Preservative; verify applicable food-category limits."
+    },
+    {
+      "name": "Calcium benzoate",
+      "category": "additive_review",
+      "note": "Preservative; verify applicable food-category limits."
+    },
+    {
+      "name": "Potassium sorbate",
+      "category": "additive_review",
+      "note": "Preservative INS 202; verify applicable food-category limits."
+    },
+    {
+      "name": "Sorbic acid",
+      "category": "additive_review",
+      "note": "Preservative INS 200; verify applicable food-category limits."
+    },
+    {
+      "name": "Sodium metabisulphite",
+      "category": "additive_review",
+      "note": "Sulphite preservative; may matter for sulphite-sensitive users."
+    },
+    {
+      "name": "Sulphur dioxide",
+      "category": "additive_review",
+      "note": "Sulphite preservative INS 220; check sensitivity and declared level."
+    },
+    {
+      "name": "Sodium nitrite",
+      "category": "additive_review",
+      "note": "Curing agent; check product type and permitted-use conditions."
+    },
+    {
+      "name": "Potassium nitrate",
+      "category": "additive_review",
+      "note": "Curing agent; check product type and permitted-use conditions."
+    },
+    {
+      "name": "BHA",
+      "category": "additive_review",
+      "note": "Antioxidant INS 320; review applicable regulatory conditions."
+    },
+    {
+      "name": "BHT",
+      "category": "additive_review",
+      "note": "Antioxidant INS 321; review applicable regulatory conditions."
+    },
+    {
+      "name": "TBHQ",
+      "category": "additive_review",
+      "note": "Antioxidant INS 319; review applicable regulatory conditions."
+    },
+    {
+      "name": "Propyl gallate",
+      "category": "additive_review",
+      "note": "Antioxidant INS 310; review applicable regulatory conditions."
+    },
+    {
+      "name": "Aspartame",
+      "category": "additive_review",
+      "note": "Sweetener INS 951; people with phenylketonuria must avoid phenylalanine sources."
+    },
+    {
+      "name": "Acesulfame potassium",
+      "category": "additive_review",
+      "note": "Sweetener INS 950; check permitted use and personal preference."
+    },
+    {
+      "name": "Sucralose",
+      "category": "additive_review",
+      "note": "Sweetener INS 955; check permitted use and personal preference."
+    },
+    {
+      "name": "Saccharin",
+      "category": "additive_review",
+      "note": "Sweetener; check applicable regulatory conditions."
+    },
+    {
+      "name": "Sodium cyclamate",
+      "category": "additive_review",
+      "note": "Sweetener; regulatory permissions differ by country."
+    },
+    {
+      "name": "Monosodium glutamate",
+      "category": "additive_review",
+      "note": "Flavour enhancer INS 621; not automatically harmful at permitted use."
+    },
+    {
+      "name": "Disodium inosinate",
+      "category": "additive_review",
+      "note": "Flavour enhancer INS 631; review ingredient context."
+    },
+    {
+      "name": "Disodium guanylate",
+      "category": "additive_review",
+      "note": "Flavour enhancer INS 627; review ingredient context."
+    },
+    {
+      "name": "Carrageenan",
+      "category": "additive_review",
+      "note": "Thickener INS 407; review context and personal tolerance."
+    },
+    {
+      "name": "Carboxymethyl cellulose",
+      "category": "additive_review",
+      "note": "Thickener INS 466; review context and personal tolerance."
+    },
+    {
+      "name": "Polysorbate 80",
+      "category": "additive_review",
+      "note": "Emulsifier INS 433; verify permitted use."
+    },
+    {
+      "name": "Propylene glycol",
+      "category": "additive_review",
+      "note": "Carrier/humectant; verify permitted use and food category."
+    },
+    {
+      "name": "Maltodextrin",
+      "category": "nutrition_watch",
+      "note": "Carbohydrate ingredient; include in total carbohydrate assessment."
+    },
+    {
+      "name": "High-fructose corn syrup",
+      "category": "nutrition_watch",
+      "note": "Added sugar source; assess total and added sugar amount."
+    },
+    {
+      "name": "Glucose syrup",
+      "category": "nutrition_watch",
+      "note": "Sugar syrup; assess total and added sugar amount."
+    },
+    {
+      "name": "Fructose syrup",
+      "category": "nutrition_watch",
+      "note": "Sugar source; assess total and added sugar amount."
+    },
+    {
+      "name": "Invert sugar",
+      "category": "nutrition_watch",
+      "note": "Sugar source; assess total and added sugar amount."
+    },
+    {
+      "name": "Dextrose",
+      "category": "nutrition_watch",
+      "note": "Sugar source; assess total and added sugar amount."
+    },
+    {
+      "name": "Sucrose",
+      "category": "nutrition_watch",
+      "note": "Sugar source; assess total and added sugar amount."
+    },
+    {
+      "name": "Maltose",
+      "category": "nutrition_watch",
+      "note": "Sugar source; assess total and added sugar amount."
+    },
+    {
+      "name": "Honey",
+      "category": "nutrition_watch",
+      "note": "Free-sugar source for dietary assessment."
+    },
+    {
+      "name": "Jaggery",
+      "category": "nutrition_watch",
+      "note": "Sugar source; still contributes to total/free sugar."
+    },
+    {
+      "name": "Palm oil",
+      "category": "nutrition_watch",
+      "note": "Assess saturated fat in the overall nutrition panel."
+    },
+    {
+      "name": "Palm kernel oil",
+      "category": "nutrition_watch",
+      "note": "Often higher in saturated fat; check nutrition panel."
+    },
+    {
+      "name": "Coconut oil",
+      "category": "nutrition_watch",
+      "note": "High in saturated fat; assess total saturated-fat intake."
+    },
+    {
+      "name": "Partially hydrogenated oil",
+      "category": "nutrition_watch",
+      "note": "Potential source of industrial trans fat; inspect label and local rules."
+    },
+    {
+      "name": "Hydrogenated vegetable oil",
+      "category": "nutrition_watch",
+      "note": "Hydrogenation type matters; check trans-fat declaration."
+    },
+    {
+      "name": "Vanaspati",
+      "category": "nutrition_watch",
+      "note": "Check trans-fat and saturated-fat values on the label."
+    },
+    {
+      "name": "Shortening",
+      "category": "nutrition_watch",
+      "note": "Fat blend; check saturated and trans-fat values."
+    },
+    {
+      "name": "Refined flour",
+      "category": "nutrition_watch",
+      "note": "Refined grain; compare fibre and overall dietary pattern."
+    },
+    {
+      "name": "Maida",
+      "category": "nutrition_watch",
+      "note": "Refined wheat flour; compare fibre and overall dietary pattern."
+    },
+    {
+      "name": "Starch",
+      "category": "nutrition_watch",
+      "note": "Carbohydrate ingredient; interpret with nutrition values."
+    },
+    {
+      "name": "Modified starch",
+      "category": "nutrition_watch",
+      "note": "Texture ingredient; not automatically a hazard."
+    },
+    {
+      "name": "Salt",
+      "category": "nutrition_watch",
+      "note": "Assess sodium/salt per serving, especially for sodium-restricted diets."
+    },
+    {
+      "name": "Sodium chloride",
+      "category": "nutrition_watch",
+      "note": "Assess sodium/salt per serving."
+    },
+    {
+      "name": "Sodium bicarbonate",
+      "category": "additive_review",
+      "note": "Leavening agent; consider sodium contribution where relevant."
+    },
+    {
+      "name": "Sodium phosphate",
+      "category": "additive_review",
+      "note": "Phosphate additive; people with kidney disease may need clinician-guided review."
+    },
+    {
+      "name": "Phosphoric acid",
+      "category": "additive_review",
+      "note": "Acidity regulator; check total dietary context."
+    },
+    {
+      "name": "Acesulfame-K",
+      "category": "additive_review",
+      "note": "Alternative name for acesulfame potassium."
+    },
+    {
+      "name": "E102",
+      "category": "additive_review",
+      "note": "INS/E-number alias for tartrazine."
+    },
+    {
+      "name": "E110",
+      "category": "additive_review",
+      "note": "INS/E-number alias for sunset yellow."
+    },
+    {
+      "name": "E122",
+      "category": "additive_review",
+      "note": "INS/E-number alias for carmoisine."
+    },
+    {
+      "name": "E211",
+      "category": "additive_review",
+      "note": "INS/E-number alias for sodium benzoate."
+    },
+    {
+      "name": "E202",
+      "category": "additive_review",
+      "note": "INS/E-number alias for potassium sorbate."
+    },
+    {
+      "name": "E220",
+      "category": "additive_review",
+      "note": "INS/E-number alias for sulphur dioxide."
+    },
+    {
+      "name": "E621",
+      "category": "additive_review",
+      "note": "INS/E-number alias for monosodium glutamate."
+    },
+    {
+      "name": "E951",
+      "category": "additive_review",
+      "note": "INS/E-number alias for aspartame."
+    },
+    {
+      "name": "E950",
+      "category": "additive_review",
+      "note": "INS/E-number alias for acesulfame potassium."
+    },
+    {
+      "name": "E955",
+      "category": "additive_review",
+      "note": "INS/E-number alias for sucralose."
+    },
+    {
+      "name": "E320",
+      "category": "additive_review",
+      "note": "INS/E-number alias for BHA."
+    },
+    {
+      "name": "E321",
+      "category": "additive_review",
+      "note": "INS/E-number alias for BHT."
+    },
+    {
+      "name": "E319",
+      "category": "additive_review",
+      "note": "INS/E-number alias for TBHQ."
+    },
+    {
+      "name": "E407",
+      "category": "additive_review",
+      "note": "INS/E-number alias for carrageenan."
+    },
+    {
+      "name": "E466",
+      "category": "additive_review",
+      "note": "INS/E-number alias for carboxymethyl cellulose."
+    },
+    {
+      "name": "E433",
+      "category": "additive_review",
+      "note": "INS/E-number alias for polysorbate 80."
+    },
+    {
+      "name": "Aflatoxin",
+      "category": "contaminant_attention",
+      "note": "Potential mycotoxin contaminant; cannot be confirmed from ingredient text or barcode."
+    },
+    {
+      "name": "Aflatoxin B1",
+      "category": "contaminant_attention",
+      "note": "Mycotoxin contaminant; requires laboratory testing, not ingredient-list matching."
+    },
+    {
+      "name": "Ochratoxin A",
+      "category": "contaminant_attention",
+      "note": "Mycotoxin contaminant; requires laboratory testing."
+    },
+    {
+      "name": "Lead",
+      "category": "contaminant_attention",
+      "note": "Contaminant; cannot be inferred from a normal ingredient declaration."
+    },
+    {
+      "name": "Arsenic",
+      "category": "contaminant_attention",
+      "note": "Contaminant; requires analytical testing."
+    },
+    {
+      "name": "Mercury",
+      "category": "contaminant_attention",
+      "note": "Contaminant; requires analytical testing."
+    },
+    {
+      "name": "Cadmium",
+      "category": "contaminant_attention",
+      "note": "Contaminant; requires analytical testing."
+    },
+    {
+      "name": "Melamine",
+      "category": "contaminant_attention",
+      "note": "Adulterant/contaminant; cannot be detected from barcode ingredient data."
+    },
+    {
+      "name": "Trans fat",
+      "category": "nutrition_watch",
+      "note": "Assess declared trans-fat amount; prefer keeping intake as low as practical."
+    },
+    {
+      "name": "Saturated fat",
+      "category": "nutrition_watch",
+      "note": "Assess amount per serving and overall dietary pattern."
+    },
+    {
+      "name": "Added sugar",
+      "category": "nutrition_watch",
+      "note": "Assess grams per serving and daily intake."
+    },
+    {
+      "name": "Caffeine",
+      "category": "nutrition_watch",
+      "note": "Consider total intake and individual sensitivity."
+    },
+    {
+      "name": "Quinine",
+      "category": "additive_review",
+      "note": "Check product type, amount and applicable rules."
+    },
+    {
+      "name": "Glycerol",
+      "category": "additive_review",
+      "note": "Humectant INS 422; verify use conditions."
+    },
+    {
+      "name": "Polydextrose",
+      "category": "additive_review",
+      "note": "Bulking agent/fibre; may cause digestive symptoms in some people."
+    },
+    {
+      "name": "Inulin",
+      "category": "nutrition_watch",
+      "note": "Fibre ingredient; larger amounts may cause digestive discomfort in some people."
+    },
+    {
+      "name": "Lactose",
+      "category": "allergen",
+      "note": "Milk sugar; relevant to lactose intolerance, which differs from milk allergy."
+    },
+    {
+      "name": "Casein",
+      "category": "allergen",
+      "note": "Milk protein; relevant to milk allergy."
+    },
+    {
+      "name": "Whey",
+      "category": "allergen",
+      "note": "Milk protein; relevant to milk allergy."
+    },
+    {
+      "name": "Peanut oil",
+      "category": "allergen",
+      "note": "Peanut-derived oil; highly refined oils differ from unrefined oils; allergy advice is individual."
+    },
+    {
+      "name": "Sesame oil",
+      "category": "allergen",
+      "note": "Sesame-derived ingredient; check sesame allergy."
+    },
+    {
+      "name": "Soy lecithin",
+      "category": "allergen",
+      "note": "Soy-derived ingredient; check soy allergy and product labelling."
+    }
+  ]
+}

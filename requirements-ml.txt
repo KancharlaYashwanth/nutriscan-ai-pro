@@ -1,0 +1,10 @@
+# Install this file only when beginning model development.
+# Install a PyTorch build suitable for your operating system from https://pytorch.org/get-started/locally/
+torch
+torchvision
+scikit-learn
+pandas
+numpy
+opencv-python
+transformers
+datasets
